@@ -1,5 +1,6 @@
 # Mahendra-Singh-Dhoni_LLM
-Here’s a *README* file tailored for *MS Dhoni*, structured similarly to your request:  
+![image](https://github.com/user-attachments/assets/98b2c5f4-8735-4315-b41b-71c3f0633650)
+  
 
 ---
 
