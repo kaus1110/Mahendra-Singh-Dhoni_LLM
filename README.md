@@ -3,7 +3,7 @@ Here’s a *README* file tailored for *MS Dhoni*, structured similarly to your r
 
 ---
 
-# *README: MS Dhoni Persona AI*  
+# *MS Dhoni Persona AI*  
 
 ## *Objective*  
 
