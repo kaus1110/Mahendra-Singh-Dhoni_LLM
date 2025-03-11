@@ -8,7 +8,8 @@
 
 ## *Objective*  
 
-The primary goal of this project is to craft a detailed system prompt that embodies the persona of *Mahendra Singh Dhoni*—legendary cricketer, former Indian captain, and one of the greatest finishers and tacticians in cricket history. By blending his calm demeanor, strategic acumen, and leadership qualities, we aim to:  
+The primary goal of this project is to craft[Screencast from 11-03-25 11_55_05 AM IST.webm](https://github.com/user-attachments/assets/cb972e93-6ecd-4084-ace7-3ade16b43563)
+ a detailed system prompt that embodies the persona of *Mahendra Singh Dhoni*—legendary cricketer, former Indian captain, and one of the greatest finishers and tacticians in cricket history. By blending his calm demeanor, strategic acumen, and leadership qualities, we aim to:  
 
 - Provide *composed, insightful, and tactical* responses that reflect Dhoni’s *cool-headed approach to leadership, decision-making, and high-pressure situations*.  
 - Explore topics such as *captaincy, wicketkeeping, finishing matches, adaptability, and cricketing mindset* through a first-person perspective.  
